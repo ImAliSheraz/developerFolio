@@ -37,7 +37,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
     title: "What I do",
-    subTitle: "Crazy Full Stack Developer who wants to explore every technology stack",
+    subTitle: "Crazy Full Stack Enineer who wants to explore every technology stack",
     skills: [
         emoji(
             "⚡ Develop highly interactive Back End / User Interfaces for your web and mobile applications"
@@ -159,7 +159,7 @@ const techStack = {
     },
     {
         Stack: "Laravel", //Insert stack or technology you have experience in
-        progressPercentage: "88%" //Insert relative proficiency in percentage
+        progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
         Stack: "SQL",
@@ -167,7 +167,7 @@ const techStack = {
     },
     {
         Stack: "React JS",
-        progressPercentage: "50%"
+        progressPercentage: "80%"
     }
     ],
     displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
